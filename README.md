@@ -16,6 +16,7 @@
 	yum -y install git
 	进入到code文件夹，拉起远程仓库项目
 	git clone https://github.com/pramalhe/2PLSF.git
+ 
 （2）数据结构基准测试：（运行步骤详见：软件测试文档-1.2-(2)）
 	进入项目目录
 	cd /root/code/2PLSF
