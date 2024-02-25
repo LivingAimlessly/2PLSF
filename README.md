@@ -61,6 +61,5 @@
 	DBx1000基准测试需要将CC_ALG 依次更改为WAIT_DIE、NO_WAIT、DL_DETECT、TICTOC、TWO_PL_SF。并且重复上述的make、python运行和覆盖txt动作直至五组全部完成。
 
 3.实验图像绘制（运行步骤详见：软件测试文档-1.2-(4)）
-
 	这里需要用到之前我们安装的gnuplot
 	进行完数据结构基准测试和DBx1000基准测试之后进入到graphs/plots 文件夹并运行 ./plot-all.sh即可得到全部实验结果pdf
